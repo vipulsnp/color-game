@@ -1,2 +1,2 @@
 # color-game
-color guessing game using js
+Guess the correct color from the color code shown ! 
